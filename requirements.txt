@@ -52,4 +52,3 @@ json-repair>=0.25.0
 gitpython>=3.1.40
 pytest
 requests
-beautifulsoup4
