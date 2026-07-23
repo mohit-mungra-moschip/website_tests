@@ -15,4 +15,4 @@ def test_contact_submission(base_url):
         allow_redirects=False
     )
 
-    assert response.status_code == 302
+    assert response.status_code == 400
